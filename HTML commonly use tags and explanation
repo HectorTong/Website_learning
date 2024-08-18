@@ -1,0 +1,10 @@
+# In this section, we're going to talk about commonly use tags in HTML.
+
+# The website we browse firstly is topic or we call headline. For headers tag it include "<h1>" to "<h6>". And for phrase it has "<p>" tag. Here is the examples:
+
+<h1>这是一个一级标题标签</h1>
+<h2>这是一个二级标题标签</h2>
+<h3>这是一个三级标题标签</h3>
+<h4>这是一个四级标题标签</h4>
+<h5>这是一个五级标题标签</h5>
+<h6>这是一个六级标题标签</h6>
