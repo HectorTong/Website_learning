@@ -1,0 +1,34 @@
+# For new learners such as me I have created the website to record the language and its common usage code shown as below. If I have new updated code please check the remarks firstly.
+# The basic script of HTML website code should be shown as below:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your website title</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+# Let us check the meaning of the basic code.
+# The first line we can see "<", "!" and ">". That is comments in HTML language. Also it includes some functional code to make sure running the needed functions.
+# So let us check the contents. "DOCTYPE" means document type, it's going to tell the browser that the HTML page version. 
+# HTML is a text type in website so it can be read by humankind easily. If you don't want to read this you can ignore this sentence. Alought you have read.
+
+# The second line 'lang="en"' means the website shown as English. You can change it as "cn" or like "en-US". Please remind it if you want a multi language website.
+
+# The third line "<head>" and its ending "</head>" means submit to browser the website headers infomation.
+
+# The forth line "meta" means the "metadata" in website, it is a basic data information in website. And the 'charset="UTF-8"' means 'character set = "UTF-8". The "UTF-8" is decoded for Chinese website. If not the decode way to browse Chinese website it may shown as "锟斤拷烫烫烫".
+
+# For headers tag it include "<h1>" to "<h6>". And for phrase it has "<p>" tag. Here is the examples:
+
+<h1>这是一个一级标题标签</h1>
+<h2>这是一个二级标题标签</h2>
+<h3>这是一个三级标题标签</h3>
+<h4>这是一个四级标题标签</h4>
+<h5>这是一个五级标题标签</h5>
+<h6>这是一个六级标题标签</h6>
