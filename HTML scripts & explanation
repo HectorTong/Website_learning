@@ -24,11 +24,6 @@
 
 # The forth line "meta" means the "metadata" in website, it is a basic data information in website. And the 'charset="UTF-8"' means 'character set = "UTF-8". The "UTF-8" is decoded for Chinese website. If not the decode way to browse Chinese website it may shown as "锟斤拷烫烫烫".
 
-# For headers tag it include "<h1>" to "<h6>". And for phrase it has "<p>" tag. Here is the examples:
+# Other sentence for new learners we don't need to understand the meaning.
 
-<h1>这是一个一级标题标签</h1>
-<h2>这是一个二级标题标签</h2>
-<h3>这是一个三级标题标签</h3>
-<h4>这是一个四级标题标签</h4>
-<h5>这是一个五级标题标签</h5>
-<h6>这是一个六级标题标签</h6>
+# This is the scripts & explanation of HTML code.
