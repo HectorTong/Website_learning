@@ -104,3 +104,18 @@
 # After that code we can see there has square for each table content. And Now let us learning the attribute about HTML like link, image, id and others.
 # Now let us learning the image & link tag in HTML. This are often used in HTML.
 # First is learning the image tag. Here is the example.
+
+<img src="Image address" alt="Name">
+
+# "<img>" means image. Following that is the link address and the attribute 'alt=""' means the image's name.
+# And also the link tag is like image tag, the only difference maybe is image / link description. Here is the link tag usage.
+
+<a herf="Your address.com">这是一个超链接显示的名字</a>
+
+# "<a>" means anchor in http, it can be a page or a hyperlink. Following the a tag is 'herf=""', it means hyperlink reference. And between the "<a>" and "</a>" is your link name. And also you can change the name attribute such as size, colour or others.
+# And you may want your hyperlink be a single sentence so you may need "<br>" tag. Let's see how is it working.
+
+<br>
+
+# It is so easy right? And also the meaning is simple, it means line breaking or break in line. For remember I hope you can just remember break for capital.
+# There are a lot of tags in http language, I can't list all so here I just update for normally used tags if I met.
